@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-20T10:40:17 GMT" name="Default suite" finished-at="2024-02-20T10:40:27 GMT" duration-ms="9976">
+    <groups>
+    </groups>
+    <test started-at="2024-02-20T10:40:17 GMT" name="Default test" finished-at="2024-02-20T10:40:27 GMT" duration-ms="9976">
+      <class name="Common.cinema_Test">
+        <test-method signature="demo()[pri:0, instance:Common.cinema_Test@5a63f509]" started-at="2024-02-20T10:40:17 GMT" name="demo" finished-at="2024-02-20T10:40:27 GMT" duration-ms="9896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Common.cinema_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
